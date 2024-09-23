@@ -50,9 +50,6 @@
 
 <p align="center">
     <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-6.JPG" alt="Рис 6" />
-</p>
-
- <p align="center">
     <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-4.JPG" alt="Рис 4" />
 </p>
 
