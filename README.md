@@ -57,9 +57,6 @@
 
 <p align="center">
     <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-7.JPG" alt="Рис 7" />
-</p>
-
- <p align="center">
     <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-5.JPG" alt="Рис 5" />
 </p>
 
