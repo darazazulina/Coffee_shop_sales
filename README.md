@@ -27,7 +27,7 @@
 - purchase_price: сумма покупки.
 
 <p align="center">
-    <img src="images/pic-1.jpg" alt="Рис 1" />
+    <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-1.JPG" alt="Рис 1" />
 </p>
 
 ## Продажи по месяцам
@@ -35,13 +35,13 @@
 На основании исходных данных была создана сводная таблица, отражающая прибыль сети кафеен по 6 месяцам. По полученной таблице можно сделать вывод, что прибыль немного упала к февралю, а потом стабильно росла к летним месяцам. Максимальная отметка в 166.486 $ достигнута в июне.
 
 <p align="center">
-    <img src="images/pic-2.jpg" alt="Рис 2" />
+    <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-2.JPG" alt="Рис 2" />
 </p>
 
 Более наглядно распределение полученной прибыли отражено на графике.
 
 <p align="center">
-    <img src="images/pic-3.jpg" alt="Рис 3" />
+    <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-3.JPG" alt="Рис 3" />
 </p>
 
 ## Топ 5 типов и категорий продуктов
@@ -49,21 +49,21 @@
 С помощью сводных таблиц были установлены самые часто покупаемые категории и типы продуктов. Среди категорий ожидаемо кофе занимает первое место, а за ним следует чай. По типам самым популярным является чай "Brewed Chai tea", а только второе и третье места занимают кофе "Gourmet brewed coffee" и "Barista Espresso".
 
 <p align="center">
-    <img src="images/pic-6.jpg" alt="Рис 6" />
+    <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-6.JPG" alt="Рис 6" />
 </p>
 
  <p align="center">
-    <img src="images/pic-4.jpg" alt="Рис 4" />
+    <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-4.JPG" alt="Рис 4" />
 </p>
 
 Линейчатые диаграммы отражают количество самых популярных категорий и типов.
 
 <p align="center">
-    <img src="images/pic-7.jpg" alt="Рис 7" />
+    <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-7.JPG" alt="Рис 7" />
 </p>
 
  <p align="center">
-    <img src="images/pic-5.jpg" alt="Рис 5" />
+    <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-5.JPG" alt="Рис 5" />
 </p>
 
 ## Распределение транзакций по часам
@@ -71,13 +71,13 @@
 Группировка транзакций по часам в сводной таблице позволяет отследить наиболее прибыльные часы рабочего дня. По полученной таблице можно заметить, что наибольшее количество покупок совершено в промежутке с 8 до 10 часов, после чего количество продаж держется около медианы данных (около 9.000) в промежутке от 11 до 17 часов, а затем начинает падать и достигает минимума всего дня в 20 часов.
 
 <p align="center">
-    <img src="images/pic-8.jpg" alt="Рис 8" />
+    <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-8.JPG" alt="Рис 8" />
 </p>
 
 Гистограмма, полученная по сводной таблице, демонстрирует описанное распределение данных.
 
 <p align="center">
-    <img src="images/pic-9.jpg" alt="Рис 9" />
+    <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-9.JPG" alt="Рис 9" />
 </p>
 
 ## Доли прибыли кофеен
@@ -85,13 +85,13 @@
 Также можно определить прибыль каждой кофейни с помощью сводной таблицы. По её данным можно увидеть, что доход примерно одинаков.
 
 <p align="center">
-    <img src="images/pic-10.jpg" alt="Рис 10" />
+    <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-10.JPG" alt="Рис 10" />
 </p>
 
 Доли вклада каждой кофейни демонстрируют круговые диаграммы. По ним также видно примерно одинаковое распределение процентов.
 
 <p align="center">
-    <img src="images/pic-11.jpg" alt="Рис 11" />
+    <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-11.JPG" alt="Рис 11" />
 </p>
 
 ## Дашборд
@@ -106,7 +106,7 @@
 - Store location (одна из трех кофейн)
 
 <p align="center">
-    <img src="images/pic-12.jpg" alt="Рис 12" />
+    <img src="https://github.com/darazazulina/Coffee_shop_sales/blob/main/images/pic-12.JPG" alt="Рис 12" />
 </p>
 
 Дашборд позволяет по графикам наблюдать статистику, а такжеинтерактивно с ними взаимодействовать.
